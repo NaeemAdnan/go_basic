@@ -2,8 +2,15 @@ package main
 
 import "fmt"
 
-func main() {
+func main(){
+	
+	a := 10
+	a = 20
 
-	a := 10.45
 	fmt.Println(a)
+
+	b := "Naeem"
+
+	fmt.Println(b)
+
 }
